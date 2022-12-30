@@ -1,3 +1,3 @@
-# GBAlekseyChernov
+# GeekBrainsEducationalProject
 
 Developed with Unreal Engine 4
